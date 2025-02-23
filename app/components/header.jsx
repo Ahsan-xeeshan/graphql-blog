@@ -5,7 +5,7 @@ export default function Header() {
   return (
     <header className="flex justify-between items-center px-8 py-4 bg-[#020617] text-white">
       <h1 className="text-lg font-bold">
-        <Link href="/">RemixNode's Blog</Link>
+        <Link href="/">RemixNode&apos;s Blog</Link>
       </h1>
       <nav className="flex space-x-6">
         <Link href="/">Home</Link>
